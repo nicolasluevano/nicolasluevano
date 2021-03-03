@@ -1,4 +1,4 @@
-### I built a buisness buying and selling storage lockers and now I build cool stuff on the internet
+### I built a buisness buying and selling storage lockers. Now I build cool stuff on the internet.
 
 
 <!--
