@@ -1,5 +1,5 @@
 ### Hi there 👋
-Name is Nicolas
+I built a buisness buying and selling storage lockers and now I build cool stuff on the internet
 
 <!--
 **nicolasluevano/nicolasluevano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
