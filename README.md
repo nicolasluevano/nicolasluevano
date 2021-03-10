@@ -1,4 +1,5 @@
-### I built a buisness buying and selling storage lockers. Now I build cool stuff on the internet.
+![Nicolas Luevano GitHub banner (1)](https://user-images.githubusercontent.com/64442298/110596814-9b606380-8134-11eb-9167-35318e0aa0a5.gif)
+
 ![Nicolas Luevano GitHub banner](https://user-images.githubusercontent.com/64442298/110595934-859e6e80-8133-11eb-8cd8-f5cb356d3e31.gif)
 
 
