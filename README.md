@@ -1,7 +1,7 @@
 ![Nicolas Luevano GitHub banner (3)](https://user-images.githubusercontent.com/64442298/110597859-f181d680-8135-11eb-919a-50bc9db16495.gif)
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Nicolas Luévano</h1>
+<h1 align="center">What's Up!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">I am a Software Engineer based in Los Angeles, CA. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. As a software engineer, I bring my strong entrepreneurial mindset and hustle to life by building robust scalable software that has a direct impact on end-users with the goal of improving the customer experience.</h3>
 
 - 👨‍💻 All of my projects are available at [nicolasluevano.com](nicolasluevano.com)
