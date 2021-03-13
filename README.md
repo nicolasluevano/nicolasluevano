@@ -41,7 +41,7 @@
 </div>
 </td><td valign="top" width="50%">
  
- ### GitHub Stats
+ ## GitHub Stats
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasluevano&show_icons=true&locale=en" alt="nicolasluevano" /></p>
 
