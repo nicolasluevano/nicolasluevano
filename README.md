@@ -18,6 +18,9 @@
 <a href="https://linkedin.com/in/nicolasluevano" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nicolasluevano" height="30" width="40" /></a>
 </p>
 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12464501&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=12464501&redirect=true)
+
 ## Skills  
  
 ### Frontend  
@@ -46,3 +49,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasluevano&show_icons=true&locale=en" alt="nicolasluevano" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasluevano&" alt="nicolasluevano" /></p>
+
