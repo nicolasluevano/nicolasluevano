@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **nicolasaluevano@gmail.com**
 
-- 📄 Check out my resume [https://drive.google.com/file/d/1AGPQuWEfP3i9r7UjeLZuQ3cP6Nw9lNec/view](https://drive.google.com/file/d/1AGPQuWEfP3i9r7UjeLZuQ3cP6Nw9lNec/view)
+- 📄 Check out my resume [https://bit.ly/3bNMQCr](https://bit.ly/3bNMQCr)
 
 - ⚡ Fun fact **I started a business in college buying and selling storage lockers**
 
