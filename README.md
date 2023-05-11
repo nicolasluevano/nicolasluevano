@@ -1,4 +1,4 @@
-![Nicolas Luevano GitHub banner (3)](https://user-images.githubusercontent.com/64442298/110597859-f181d680-8135-11eb-919a-50bc9db16495.gif)
+<!---![Nicolas Luevano GitHub banner (3)](https://user-images.githubusercontent.com/64442298/110597859-f181d680-8135-11eb-919a-50bc9db16495.gif)
 
 
 <h1 align="center">What's Up!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
@@ -16,11 +16,11 @@
 <p align="left">
 <a href="https://twitter.com/scrappycoder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="scrappycoder" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nicolasluevano" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nicolasluevano" height="30" width="40" /></a>
-</p>
+</p>--->
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12464501&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=12464501&redirect=true)
-
+<!---
 ## Skills  
  
 ### Frontend  
@@ -52,3 +52,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasluevano&" alt="nicolasluevano" /></p>
 
+--->
